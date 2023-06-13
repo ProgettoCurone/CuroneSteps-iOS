@@ -50,7 +50,4 @@ Per ulteriori informazioni sull'applicazione del Parco del Curone Italia o per c
 
 ## Licenza
 
-L'applicazione è distribuita con licenza [Nome della licenza] ([link_alla_licenza]). Si prega di consultare il file LICENSE per ulteriori informazioni sulla licenza e l'utilizzo dell'applicazione.
-
----
-**Nota:** Si prega di fare riferimento al file [CHANGES.md](link_al_file_CHANGES.md) per visualizzare l'elenco completo delle modifiche apportate all'applicazione nel corso del tempo.
+L'applicazione è distribuita con licenza MIT ([link_alla_licenza]). Si prega di consultare il file LICENSE per ulteriori informazioni sulla licenza e l'utilizzo dell'applicazione.
