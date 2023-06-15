@@ -76,9 +76,7 @@ Benvenuti nel repository dell'applicazione del Parco del Curone Italia, progetta
 
 ## Tecnologie utilizzate
 
-- **Backend**: Il back-end dell'applicazione è stato sviluppato utilizzando il linguaggio di programmazione
-
- C# insieme al framework .NET Core. Questa combinazione permette di creare un sistema robusto e scalabile, in grado di gestire le richieste degli utenti in modo efficiente e sicuro.
+- **Backend**: Il back-end dell'applicazione è stato sviluppato utilizzando il linguaggio di programmazione C# insieme al framework .NET Core. Questa combinazione permette di creare un sistema robusto e scalabile, in grado di gestire le richieste degli utenti in modo efficiente e sicuro.
 
 - **Frontend**: Per quanto riguarda il front-end, l'applicazione fa uso del framework .NET MAUI. Questo framework consente di creare un'interfaccia utente moderna e reattiva, che si adatta perfettamente ai dispositivi iOS, offrendo una navigazione intuitiva e una piacevole esperienza visiva.
 
