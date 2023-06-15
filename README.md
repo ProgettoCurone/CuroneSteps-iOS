@@ -46,9 +46,9 @@ We are excited to welcome contributions from the community to improve the applic
 
 For further information about the Parco del Curone Italia application or to reach out for assistance, you can contact us via:
 
-- Website: [www.parco-curone-app.it](http://www.parco-curone-app.it)
+- Website: [www.parcocurone.it](https://www.parcocurone.it/sit/)
 - Email: [info@parco-curone-app.it](mailto:info@parco-curone-app.it)
-- Phone: +39 123 456789
+- Phone: 039 993 0384
 
 ## License
 
@@ -101,10 +101,17 @@ Siamo entusiasti di accogliere contributi da parte della comunità per migliorar
 
 Per ulteriori informazioni sull'applicazione del Parco del Curone Italia o per contattarci per assistenza, puoi raggiungerci tramite:
 
-- Sito Web: [www.parco-curone-app.it](http://www.parco-curone-app.it)
-- Email: [info@parco-curone-app.it](mailto:info@parco-curone-app.it)
-- Telefono: +39 123 456789
-
+- Sito Web: [www.parcocurone.it](http://www.parcocurone.it)
+- Email: [info@parcocurone.it](mailto:info@parcocurone.it)
+- Telefono: 039 993 0384
+- Orario di Apertura
+     Lunedì: 09:00 - 12:30
+     Martedì: 09:00 - 12:30
+     Mercoledì: 09:00 - 12:30
+     Giovedì: 09:00 - 12:30
+     Venerdì: 09:00 - 12:30
+     Sabato: Chiuso
+     Domenica: Chiuso
 ## Licenza
 
 Il presente progetto è rilasciato sotto la licenza MIT. Puoi trovare ulteriori informazioni sulla licenza nel file [LICENSE](https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/LICENSE). Si prega di leggere attentamente i termini della licenza prima di utilizzare o distribuire questo progetto.
