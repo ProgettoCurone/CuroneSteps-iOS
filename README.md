@@ -1,5 +1,5 @@
 # Application for Visually Impaired People - Parco del Curone Italy
-<img src="https://github.com/ProgettoCurone/ProgettoCuroneiOS/blob/main/GraficaCurone/Resources/Splash/logoparco.png" width="70" height="70"><img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/united-kingdom.png" width="70" height="70">
+<img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/logoparco.png" width="70" height="70"><img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/united-kingdom.png" width="70" height="70">
 
 Welcome to the repository of the Parco del Curone Italia application, designed to provide an engaging and accessible experience for visually impaired visitors. This application utilizes innovative technologies to allow users to explore the beautiful Parco del Curone located in Lombardy, Italy, through detailed audio descriptions of the visited areas.
 
@@ -56,7 +56,7 @@ This project is released under the MIT License. You can find more information ab
 
 # Applicazione per persone ipovedenti - Parco del Curone Italia
 
-<img src="https://github.com/ProgettoCurone/ProgettoCuroneiOS/blob/main/GraficaCurone/Resources/Splash/logoparco.png" width="70" height="70"> <img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/italy.png" width="70" height="70">
+<img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/logoparco.png" width="70" height="70"> <img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/italy.png" width="70" height="70">
 
 Benvenuti nel repository dell'applicazione del Parco del Curone Italia, progettata per offrire un'esperienza coinvolgente e accessibile ai visitatori ipovedenti. Questa applicazione utilizza tecnologie innovative per consentire agli utenti di esplorare il meraviglioso Parco del Curone, situato in Lombardia, Italia, attraverso una descrizione audio dettagliata dei luoghi visitati.
 
