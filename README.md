@@ -105,8 +105,6 @@ Per ulteriori informazioni sull'applicazione del Parco del Curone Italia o per c
 - Email: [info@parco-curone-app.it](mailto:info@parco-curone-app.it)
 - Telefono: +39 123 456789
 
-Certamente! Ecco la sezione "Licenza" modificata:
-
 ## Licenza
 
 Il presente progetto è rilasciato sotto la licenza MIT. Puoi trovare ulteriori informazioni sulla licenza nel file [LICENSE](https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/LICENSE). Si prega di leggere attentamente i termini della licenza prima di utilizzare o distribuire questo progetto.
