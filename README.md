@@ -1,5 +1,5 @@
-# Application for Visually Impaired People - Parco del Curone Italy
-<img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/united-kingdom.png" width="30" height="20">
+# Application for Visually Impaired People - Parco del Curone Italy <img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/united-kingdom.png" width="60" height="60">
+
 ![Application Logo](link_to_logo)
 
 Welcome to the repository of the Parco del Curone Italy application, designed to provide an engaging and accessible experience for visually impaired visitors. This application utilizes innovative technologies to allow users to explore the beautiful Parco del Curone, located in Lombardy, Italy, through detailed audio descriptions of the visited places.
