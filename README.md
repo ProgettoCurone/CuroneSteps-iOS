@@ -1,5 +1,4 @@
-![united-kingdom.png](https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/united-kingdom.png)
-# Application for Visually Impaired People - Parco del Curone Italy
+![united-kingdom.png](https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/united-kingdom.png) # Application for Visually Impaired People - Parco del Curone Italy
 
 ![Application Logo](link_to_logo)
 
