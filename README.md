@@ -103,15 +103,22 @@ Siamo entusiasti di accogliere contributi da parte della comunità per migliorar
 Per ulteriori informazioni sull'applicazione del Parco del Curone Italia o per contattarci per assistenza, puoi raggiungerci tramite:
 
 - Sito Web: [www.parcocurone.it](http://www.parcocurone.it)
-- Email: [info@parcocurone.it](mailto:info@parcocurone.it)
-- Telefono: 039 993 0384
-- Orario di Apertura: 
+- Email: [info@parcocurone.it](mailto:info@parcocurone.it) <img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/2.png" width="20" height="20">
+- Telefono: 039 993 0384 <img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/1.png" width="20" height="20">
+- Orario di Apertura: <img src="https://github.com/ProgettoCurone/CuroneSteps-iOS/blob/main/items/R.png" width="20" height="20">
+
   Lunedì: 09:00 - 12:30
+
   Martedì: 09:00 - 12:30
+
   Mercoledì: 09:00 - 12:30
+
   Giovedì: 09:00 - 12:30
+
   Venerdì: 09:00 - 12:30
+
   Sabato: Chiuso
+
   Domenica: Chiuso
 ## Licenza
 
